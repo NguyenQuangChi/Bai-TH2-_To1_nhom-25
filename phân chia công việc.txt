@@ -1,0 +1,2 @@
+Lợi làm phần display danh sách gồm home.html, display.html, DisplayController
+Chí làm kết nổi với database gồm các file trong package product.data, file DisplayController
